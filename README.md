@@ -18,5 +18,5 @@ The next generation social media platform
   
 # Preview
 
-<video src="https://drive.google.com/file/d/1eIZra71IpX7CR8uwz68HrXSYr0MEX3hu/view?usp=share_link"/>
+<video src="https://drive.google.com/file/d/1eIZra71IpX7CR8uwz68HrXSYr0MEX3hu/view" />
   
