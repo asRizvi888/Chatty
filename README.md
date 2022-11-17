@@ -18,5 +18,5 @@ The next generation social media platform
   
 # Preview
 
-<video src="https://drive.google.com/file/d/1eIZra71IpX7CR8uwz68HrXSYr0MEX3hu/view" />
+<video src="https://github.com/asRizvi888/Chatty/blob/master/Chatty_Preview%20(1).mp4" />
   
